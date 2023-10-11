@@ -14,9 +14,9 @@
 <img align="left" alt="Numpy" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
 <img align="left" alt="Pandas" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Tensorflow" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
-<img align="left" alt="Scikit-image" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" />
 <img align="left" alt="R" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1b/20150904192833%21R_logo.svg" />
 <img align="left" alt="Bioconductor" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Bioconductor_logo_rgb.jpg" />
+<img align="left" alt="Nextflow" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextflow_logo.png" />
 
 <!--
 **zhanyinx/zhanyinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
